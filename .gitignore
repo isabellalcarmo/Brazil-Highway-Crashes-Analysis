@@ -1,0 +1,11 @@
+# It's better to unpack these files and commit the raw source because
+# git has its own built in compression methods.
+*.jar
+*.rar
+*.zip
+*.gz
+*.gzip
+*.tgz
+*.bzip
+*.bzip2
+*.csv
