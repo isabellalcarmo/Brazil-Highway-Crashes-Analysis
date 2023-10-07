@@ -9,3 +9,10 @@
 *.bzip
 *.bzip2
 *.csv
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.shp
+*.shx
+*.sbx
